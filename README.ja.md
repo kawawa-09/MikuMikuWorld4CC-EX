@@ -1,6 +1,6 @@
 [English](./README.md) / **日本語**
 
-# MikuMikuWorld for Chart Cyanvas
+# MikuMikuWorld for Chart Cyanvas-EX
 [MikuMikuWorld4CC](https://github.com/sevenc-nanashi/MikuMikuWorld4CC)の[MikuMikuWorld](https://github.com/crash5band/MikuMikuWorld)統合版フォーク。
 
 ## 追加された機能：
