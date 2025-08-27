@@ -1,11 +1,7 @@
 [English](./README.md) / **日本語**
 
-> [!WARNING]
-> Chart Cyanvasがサ終し、そして自分（@sevenc-nanashi）の創作譜面界隈への興味がなくなったため、**このリポジトリはメンテナンスされなくなりました。**
-> Forkを参照してください： <https://github.com/sevenc-nanashi/MikuMikuWorld4CC/forks>
-
 # MikuMikuWorld for Chart Cyanvas
-[MikuMikuWorld](https://github.com/crash5band/MikuMikuWorld)の[Chart Cyanvas](https://github.com/sevenc-nanashi/chart_cyanvas)用フォーク。
+[MikuMikuWorld4CC](https://github.com/sevenc-nanashi/MikuMikuWorld4CC)の[MikuMikuWorld](https://github.com/crash5band/MikuMikuWorld)統合版フォーク。
 
 ## 追加された機能：
 MikuMikuWorldの元の機能に加え、以下の機能が追加されています：
@@ -17,6 +13,10 @@ MikuMikuWorldの元の機能に加え、以下の機能が追加されていま�
 - スライドの中継点の繰り返し
 - ノーツプロパティパネル
 - 小数点のノーツレーンと幅のサポート
+
+## 追加予定の機能：
+- sonolusのエキスポーター、インポーター
+- プレビューの追加
 
 ## 翻訳：
 翻訳に貢献したい場合は、[ガイド](./TRANSLATION.md)を参照してください。
@@ -31,7 +31,7 @@ MikuMikuWorldの元の機能に加え、以下の機能が追加されていま�
 1：古いバージョンでも動くかもしれませんが、動作確認はされていません。
 
 ## ダウンロード：
-最新版は[ここ](https://github.com/sevenc-nanashi/MikuMikuWorld/releases/latest/download/MikuMikuWorld.zip)からダウンロードできます。
+最新版は[ここ](https://github.com/kawawa-09/MikuMikuWorld4CC-EX/releases)の最新版からダウンロードできます。
 
 ## スクリーンショット：
 TODO
