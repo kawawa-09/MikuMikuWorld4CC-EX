@@ -1,21 +1,17 @@
 **English** / [日本語](./README.ja.md)
 
-> [!WARNING]
-> As Chart Cyanvas ended its service, and I (@sevenc-nanashi) am no longer interested in sekai fanmade community, **this repository is no longer maintained.**
-> You can check the forks of this repo here: <https://github.com/sevenc-nanashi/MikuMikuWorld4CC/forks>
+# MikuMikuWorld for Chart Cyanvas-EX
 
-# MikuMikuWorld for Chart Cyanvas
+[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC-EX/coverage-en)](./MikuMikuWorld/res/i18n/en.csv)
+[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC-EX/coverage-ja)](./MikuMikuWorld/res/i18n/ja.csv)
+[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC-EX/coverage-es)](./MikuMikuWorld/res/i18n/es.csv)
+[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC-EX/coverage-kr)](./MikuMikuWorld/res/i18n/kr.csv)
+[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC-EX/coverage-ru)](./MikuMikuWorld/res/i18n/ru.csv)
+[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC-EX/coverage-vi)](./MikuMikuWorld/res/i18n/vi.csv)
+[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC-EX/coverage-tr)](./MikuMikuWorld/res/i18n/tr.csv)
+[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC-EX/coverage-pt)](./MikuMikuWorld/res/i18n/pt.csv)
 
-[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-en)](./MikuMikuWorld/res/i18n/en.csv)
-[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-ja)](./MikuMikuWorld/res/i18n/ja.csv)
-[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-es)](./MikuMikuWorld/res/i18n/es.csv)
-[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-kr)](./MikuMikuWorld/res/i18n/kr.csv)
-[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-ru)](./MikuMikuWorld/res/i18n/ru.csv)
-[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-vi)](./MikuMikuWorld/res/i18n/vi.csv)
-[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-tr)](./MikuMikuWorld/res/i18n/tr.csv)
-[![](https://byob.yarr.is/sevenc-nanashi/MikuMikuWorld4CC/coverage-pt)](./MikuMikuWorld/res/i18n/pt.csv)
-
-Fork of [MikuMikuWorld](https://github.com/crash5band/MikuMikuWorld) for [Chart Cyanvas](https://github.com/sevenc-nanashi/chart_cyanvas).
+[MikuMikuWorld4CC](https://github.com/sevenc-nanashi/MikuMikuWorld4CC) is a fork of [MikuMikuWorld](https://github.com/crash5band/MikuMikuWorld).
 
 ## Added Features
 
@@ -30,11 +26,15 @@ In addition to the original features of MikuMikuWorld, the following features ar
 - Note Properties panel
 - Support for decimal note lane and width
 
+## Planned Features:
+- Sonolus Exporter and Importer
+- Added Preview
+
 ## Translations
 
 If you want to contribute a translation, please see [the guide](./TRANSLATION.md).
 
-- 日本語 (Japanese) by @sevenc_nanashi
+- 日本語 (Japanese) by @kawars51524
 - Español (Spanish) by @mi.honesta.reaccion
 - Русский (Russian) by @\_notfallen\_
 - Tiếng Việt (Vietnamese) by @uwulovecrosshand
@@ -51,7 +51,7 @@ If you want to contribute a translation, please see [the guide](./TRANSLATION.md
 
 ## Download
 
-The latest version can be downloaded [here](https://github.com/sevenc-nanashi/MikuMikuWorld/releases/latest/download/MikuMikuWorld.zip).
+You can download the latest version here: [https://github.com/kawawa-09/MikuMikuWorld4CC-EX/releases].
 
 ## Screenshot
 
